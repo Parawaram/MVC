@@ -1,0 +1,14 @@
+C:\Projects\Remail\Clone\Remail\Remail.BusinessLogic\bin\Debug\Remail.BusinessLogic.dll.config
+C:\Projects\Remail\Clone\Remail\Remail.BusinessLogic\bin\Debug\Remail.BusinessLogic.dll
+C:\Projects\Remail\Clone\Remail\Remail.BusinessLogic\bin\Debug\Remail.BusinessLogic.pdb
+C:\Projects\Remail\Clone\Remail\Remail.BusinessLogic\bin\Debug\Cyotek.GhostScript.dll
+C:\Projects\Remail\Clone\Remail\Remail.BusinessLogic\bin\Debug\Cyotek.GhostScript.PdfConversion.dll
+C:\Projects\Remail\Clone\Remail\Remail.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Projects\Remail\Clone\Remail\Remail.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Remail\Clone\Remail\Remail.BusinessLogic\bin\Debug\Excel.dll
+C:\Projects\Remail\Clone\Remail\Remail.BusinessLogic\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Projects\Remail\Clone\Remail\Remail.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Projects\Remail\Clone\Remail\Remail.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Remail\Clone\Remail\Remail.BusinessLogic\obj\Debug\Remail.BusinessLogic.dll
+C:\Projects\Remail\Clone\Remail\Remail.BusinessLogic\obj\Debug\Remail.BusinessLogic.pdb
+C:\Projects\Remail\Clone\Remail\Remail.BusinessLogic\obj\Debug\Remail.BusinessLogic.csprojResolveAssemblyReference.cache

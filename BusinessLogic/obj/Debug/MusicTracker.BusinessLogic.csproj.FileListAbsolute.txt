@@ -1,0 +1,16 @@
+C:\Projects\MVC\MusicTracker\BusinessLogic\obj\Debug\MusicTracker.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Projects\MVC\MusicTracker\BusinessLogic\obj\Debug\Remail.BusinessLogic.dll
+C:\Projects\MVC\MusicTracker\BusinessLogic\obj\Debug\Remail.BusinessLogic.pdb
+C:\Projects\MVC\MusicTracker\BusinessLogic\bin\Debug\Remail.BusinessLogic.dll.config
+C:\Projects\MVC\MusicTracker\BusinessLogic\bin\Debug\Remail.BusinessLogic.dll
+C:\Projects\MVC\MusicTracker\BusinessLogic\bin\Debug\Remail.BusinessLogic.pdb
+C:\Projects\MVC\MusicTracker\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Projects\MVC\MusicTracker\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\MusicTrackerBootsrap\MusicTracker\MusicTracker\BusinessLogic\bin\Debug\Remail.BusinessLogic.dll.config
+E:\Projects\MusicTrackerBootsrap\MusicTracker\MusicTracker\BusinessLogic\bin\Debug\Remail.BusinessLogic.dll
+E:\Projects\MusicTrackerBootsrap\MusicTracker\MusicTracker\BusinessLogic\bin\Debug\Remail.BusinessLogic.pdb
+E:\Projects\MusicTrackerBootsrap\MusicTracker\MusicTracker\BusinessLogic\bin\Debug\EntityFramework.xml
+E:\Projects\MusicTrackerBootsrap\MusicTracker\MusicTracker\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\MusicTrackerBootsrap\MusicTracker\MusicTracker\BusinessLogic\obj\Debug\MusicTracker.BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Projects\MusicTrackerBootsrap\MusicTracker\MusicTracker\BusinessLogic\obj\Debug\Remail.BusinessLogic.dll
+E:\Projects\MusicTrackerBootsrap\MusicTracker\MusicTracker\BusinessLogic\obj\Debug\Remail.BusinessLogic.pdb
